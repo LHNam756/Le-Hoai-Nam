@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1710949228 source:c:\users\admin\documents\c++ pr\guessit\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<limits>
+	<SDL.h>
+	<SDL_image.h>
+
